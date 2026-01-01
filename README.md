@@ -47,4 +47,4 @@ Le jeu propose un **minuteur**, un compteur de pays trouvés, et des popups de f
 
 ## 📜 Remarque
 - Le projet a été réalisé uniquement pour le fun, donc certains pays sont en "trop", d'autres ne sont pas présents, et pour certains, il faudrait ajouter des alias.
-- Le projet a été réalisé rapidement donc tout est dans un seul et même fichier.
+- Le projet a été réalisé rapidement donc tout est dans un seul et même fichier, les pays sont en clair dans le html mais généralement on essaye pas de tricher quand on joue à ce genre de jeu.
